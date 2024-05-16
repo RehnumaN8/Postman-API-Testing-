@@ -7,3 +7,6 @@ Random data from https://learning.postman.com/docs/writing-scripts/script-refere
 Post, Get, Update, Delete API requests are used here
 
 Different types of command are used for generating the Newman reports
+
+Postman Documentation Link
+https://documenter.getpostman.com/view/34884507/2sA3JRZeNW
